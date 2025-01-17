@@ -1,0 +1,1 @@
+A string é um tipo (ou classe) fundamental em muitas linguagens. nas de alto nível sua manipulação é geralmente fácil
