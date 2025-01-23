@@ -1,0 +1,1 @@
+No Python 3, todas as strings são representação em unicode code points. Elas podem ter caracteres com acentos (por exemplo, "é") ou qualquer outro unicode válido, **como caracteres do japonês** 
