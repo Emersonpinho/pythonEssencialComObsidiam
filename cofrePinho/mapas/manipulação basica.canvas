@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"52c165fc5aa87a28","x":-160,"y":-120,"width":250,"height":91,"color":"4","type":"text","text":"## Manipulação Básicas"},
+		{"id":"79da7482404e6848","x":-34,"y":9,"width":250,"height":111,"color":"1","type":"text","text":"Em Python, uma atribuição se faz ```variavel = expressão``` "}
+	],
+	"edges":[
+		{"id":"eda4cee86cd7ee0d","fromNode":"52c165fc5aa87a28","fromSide":"bottom","toNode":"79da7482404e6848","toSide":"top","color":"4"}
+	]
+}
