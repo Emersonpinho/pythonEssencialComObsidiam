@@ -38,7 +38,7 @@
 
 ### 🎥 Prévia do Obsidian  
 <div style="width: 300px; height: 300px; border: 2px solid #000; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Emersonpinho/pythonEssencialComObsidiam/blob/main/Captura%20de%20tela%20de%202025-01-15%2016-52-49.png" alt="Descrição da imagem" style="max-width: 100%; max-height: 100%;">
+    <img src="https://github.com/Emersonpinho/pythonEssencialComObsidiam/blob/main/CapturaDeTela.png" alt="Descrição da imagem" style="max-width: 100%; max-height: 100%;">
 </div>
 
 
