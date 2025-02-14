@@ -1,0 +1,1 @@
+Esse repositorio está completo por aqui... não vou colocar todos os projetos que eu vou fazer aqui para ficar mais gerenciavel, mas todos os projeto relacionado a esse conteudo estão aqui no meu perfil, vou fazer apenas ums desenhos e colocar na pasta [Excalidraw]
